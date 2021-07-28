@@ -37,7 +37,7 @@ layout: default
 
 * 13:45 – 14:15: Coding: fitting more advanced occupancy models using JAGS [Diana]
 
-* 14:15 – 14:45: Lecture: introduction into spatial models (smooths, Gaussian Process, INLA, inlabru) [Lionel]
+* 14:15 – 14:45: Lecture: introduction into spatial models (INLA and inlabru), [lecture file](docs/05_spatial_lecture.html)
 
 * 14:45 – 15:15: Coding: fitting spatial models (inlabru) [Lionel]
 
