@@ -25,9 +25,9 @@ layout: default
 
 * 10:15 – 10:45: Coding: fitting a trend model (time and maybe space) to structured data [the idea there could be to give simulated data to the participants with some detection/reporting bias in the observation process and compare after the session the estimated temporal/ spatial pattern with the true one to demonstrate how not accounting for this bias can lead to spurious results] [Lionel]
 
-* 11:00 – 11:30: Lecture: introduction to occupancy models [Swantje]
+* 11:00 – 11:30: Lecture: introduction to occupancy models, [lecture file](docs/03_intro_occupancy.pdf)
 
-* 11:30 – 12:00: Coding: fitting occupancy models using R (unmarked) and JAGS (?) [Swantje]
+* 11:30 – 12:00: Coding: fitting occupancy models using R (unmarked) and JAGS, [Rscript file](docs/03_intro_occupancy.R)
 
 * 12:00 – 13:00: Lunch break
 
@@ -51,7 +51,15 @@ layout: default
 
 + Install [`R`](https://cloud.r-project.org/) and [`RStudio`](https://rstudio.com/products/rstudio/download/#download). 
 
-+ ...
++ unmarked
+
++ INLA
+
++ inlabru
+
++ rjags
+
++ tidyverse
 
 ### To-do list
 
