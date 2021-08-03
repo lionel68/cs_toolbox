@@ -23,11 +23,11 @@ layout: default
 
 * 09:45 – 10:15: Lecture: Introduction into the large diversity of citizen science data from structured monitoring programs relying on volunteers (breeding bird survey) to opportunistic observations (GBIF …) and the bias associated with it (site selection, reporting bias, detection issues …) and simple trend models. [Diana]
 
-* 10:15 – 10:45: Coding: fitting a trend model (time and maybe space) to structured data [the idea there could be to give simulated data to the participants with some detection/reporting bias in the observation process and compare after the session the estimated temporal/ spatial pattern with the true one to demonstrate how not accounting for this bias can lead to spurious results] [Lionel]
+* 10:15 – 10:45: Coding: fitting a trend model (time and space) to structured data, [Rscriptfile](docs/C01_trend_structured.R), [data file 1](docs/C01_temporal_data.rds), [data file 2](docs/C01_spatial_data.rds) 
 
 * 11:00 – 11:30: Lecture: introduction to occupancy models, [lecture file](docs/03_intro_occupancy.pdf)
 
-* 11:30 – 12:00: Coding: fitting occupancy models using R (unmarked) and JAGS, [Rscript file](docs/03_intro_occupancy.R)
+* 11:30 – 12:00: Coding: fitting occupancy models using R (unmarked) and JAGS, [Rscript file](docs/C02_intro_occupancy.R)
 
 * 12:00 – 13:00: Lunch break
 
@@ -39,7 +39,7 @@ layout: default
 
 * 14:15 – 14:45: Lecture: introduction into spatial models (INLA and inlabru), [lecture file](docs/05_spatial_models.html)
 
-* 14:45 – 15:15: Coding: fitting spatial models (inlabru) [Lionel]
+* 14:45 – 15:15: Coding: fitting spatial models (inlabru), [Rscript file](C04_spatial_data.R)
 
 * 15:15 – 15:45: Lecture: Integrated modelling approaches (combined what we learn earlier) [Diana]
 
