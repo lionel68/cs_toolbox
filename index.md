@@ -39,7 +39,7 @@ layout: default
 
 * 14:15 – 14:45: Lecture: introduction into spatial models (INLA and inlabru), [lecture file](docs/05_spatial_models.html)
 
-* 14:45 – 15:15: Coding: fitting spatial models (inlabru), [Rscript file](C04_spatial_data.R)
+* 14:45 – 15:15: Coding: fitting spatial models (inlabru), [Rscript file](docs/C04_spatial_data.R)
 
 * 15:15 – 15:45: Lecture: Integrated modelling approaches (combined what we learn earlier) [Diana]
 
