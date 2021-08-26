@@ -1,8 +1,13 @@
-## Coding session 4: Spatial analysis
+##########################################################################
+#### Workshop CSD-Toolbox, 29.08.2021                                 ####
+#### Lionel Hertzog, Thünen Institute for Biodiversity                ####
+#### Fitting spatial models (georeferenced data plus point patterns)  ####
+#### using INLA via inlabru                                           ####
+##########################################################################
 
-## set wd
-# DEV !!!
-setwd("~/PostDoc_Thunen/Stat-stuff/Gfoe_workshop/")
+
+## set wd where the script and the data are located
+setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
 ## load libraries
 library(tidyverse)
@@ -20,7 +25,12 @@ mesh <- inla.mesh.2d(loc = dat_spat[,c("x", "y")],
                      max.edge = c(0.1, 1))
 
 ## plot the mesh
-plot(mesh)
+ggplot() +
+  gg(mesh) # cool inlabru gg.* methods
+
+## create the mesh with meshbuilder
+locs <- as.matrix(dat_spat[,c("x", "y")])
+meshbuilder()
 
 ## create the SPDE
 spat <- inla.spde2.pcmatern(mesh, 
