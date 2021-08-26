@@ -15,7 +15,7 @@ layout: default
 
 **When**: Sunday 29.08.2021, Time 9:30 – 17:30 (CET)
 
-**Where**: Online via Zoom/Slack
+**Where**: Online via [Zoom](https://uni-jena-de.zoom.us/j/61640256162), discussions will be done on [Slack](https://join.slack.com/t/slack-y314603/shared_invite/zt-utiuaxxh-KkJWuTrXMd1KrijG6KT2iw)
 
 ### (tentative) Program 
 
