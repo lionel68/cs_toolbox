@@ -21,7 +21,7 @@ layout: default
 
 * 09:30 – 09:45: Lecture: Welcoming words, schedule for the session, how the workshop will be organized (chat, repository …) [Swantje]
 
-* 09:45 – 10:15: Lecture: Introduction into the large diversity of citizen science data from structured monitoring programs relying on volunteers (breeding bird survey) to opportunistic observations (GBIF …) and the bias associated with it (site selection, reporting bias, detection issues …) and simple trend models. [lecture file](docs/02_CS_intro.pdf)
+* 09:45 – 10:15: Lecture: Introduction into the large diversity of citizen science data from structured monitoring programs relying on volunteers (breeding bird survey) to opportunistic observations (GBIF …) and the bias associated with it (site selection, reporting bias, detection issues …) and simple trend models. [lecture file](docs/02_CS_Intro.pdf)
 
 * 10:15 – 10:45: Coding: fitting a trend model (time and space) to structured data, [Rscriptfile](docs/C01_trend_structured.R), [data file 1](docs/C01_temporal_data.rds), [data file 2](docs/C01_spatial_data.rds) 
 
