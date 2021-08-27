@@ -59,6 +59,8 @@ Together with the following packages:
 
 + inlabru
 
++ JAGS, see here [instructions] (https://mcmc-jags.sourceforge.io/)
+
 + rjags
 
 + tidyverse
