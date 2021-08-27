@@ -33,7 +33,7 @@ layout: default
 
 * 13:00 – 13:15: exchange time
 
-* 13:15 – 13:45: Lecture: more advanced occupancy models (more than one species, dynamic occupancy models) [lecture file](docs/04_advanced_occupancy.pdf)
+* 13:15 – 13:45: Lecture: more advanced occupancy models (more than one species, dynamic occupancy models), [lecture file](docs/04_advanced_occupancy.pdf)
 
 * 13:45 – 14:15: Coding: fitting more advanced occupancy models using JAGS [Diana]
 
