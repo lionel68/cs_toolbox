@@ -35,7 +35,7 @@ layout: default
 
 * 13:15 – 13:45: Lecture: more advanced occupancy models (more than one species, dynamic occupancy models), [lecture file](docs/04_advanced_occupancy.pdf)
 
-* 13:45 – 14:15: Coding: fitting more advanced occupancy models using JAGS [Diana]
+* 13:45 – 14:15: Coding: fitting more advanced occupancy models using JAGS, [Rscript file](docs/C03_advanced_occupancy.R)
 
 * 14:15 – 14:45: Lecture: introduction into spatial models (INLA and inlabru), [lecture file](docs/05_spatial_models.html)
 
