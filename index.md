@@ -19,7 +19,7 @@ layout: default
 
 ### Program 
 
-* 09:30 – 09:45: Lecture: Welcoming words, schedule for the session, how the workshop will be organized (chat, repository …) [Swantje]
+* 09:30 – 09:45: Lecture: Welcoming words, schedule for the session, how the workshop will be organized, [lecture file](docs/01_CSDWorkshop_welcome.pdf)
 
 * 09:45 – 10:15: Lecture: Introduction into the large diversity of citizen science data, [lecture file](docs/02_CS_Intro.pdf)
 
