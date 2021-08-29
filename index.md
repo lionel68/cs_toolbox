@@ -23,7 +23,7 @@ layout: default
 
 * 09:45 – 10:15: Lecture: Introduction into the large diversity of citizen science data, [lecture file](docs/02_CS_Intro.pdf)
 
-* 10:15 – 10:45: Coding: fitting a trend model (time and space) to structured data, [Rscriptfile](docs/C01_trend_structured.R), [data file 1](docs/C01_temporal_data.rds), [data file 2](docs/C01_spatial_data.rds) 
+* 10:15 – 10:45: Coding: fitting a trend model (time and space) to structured data, [Rscriptfile](docs/C01_trend_structured.R), [data file 1](docs/C01_temporal_data.csv), [data file 2](docs/C01_spatial_data.csv), [data file 3](docs/C01_spatial_data_prediction.csv) 
 
 * 11:00 – 11:30: Lecture: introduction to occupancy models, [lecture file](docs/03_intro_occupancy.pdf)
 
