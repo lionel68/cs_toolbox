@@ -66,3 +66,9 @@ Together with the following packages:
 + tidyverse
 
 + rstudioapi
+
++ RColorBrewer
+
++ DHARMa
+
++ ggpubr
