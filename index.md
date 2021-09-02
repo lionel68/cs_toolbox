@@ -21,6 +21,10 @@ layout: default
 
 The recordings of the workshop can be found [here](https://cloud.thuenen.de/index.php/s/ffcTft596ZCtZG2), the password is: W50R[\_Cux[x/
 
+### Literature
+
+Here is the link to the [Slack channel](https://citizenscienc-pu09132.slack.com/archives/C02C3J0P6BG) with a list of relevant publications on the analysis of Citizen Science data.
+
 ### Program 
 
 * 09:30 – 09:45: Lecture: Welcoming words, schedule for the session, how the workshop will be organized, [lecture file](docs/01_CSDWorkshop_welcome.pdf)
