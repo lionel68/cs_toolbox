@@ -17,6 +17,10 @@ layout: default
 
 **Where**: Online via [Zoom](https://uni-jena-de.zoom.us/j/61640256162), discussions will be done on [Slack](https://join.slack.com/t/slack-y314603/shared_invite/zt-utiuaxxh-KkJWuTrXMd1KrijG6KT2iw)
 
+### Recordings
+
+The recordings of the workshop can be found [here](https://cloud.thuenen.de/index.php/s/ffcTft596ZCtZG2), the password is: W50R[\_Cux[x/
+
 ### Program 
 
 * 09:30 – 09:45: Lecture: Welcoming words, schedule for the session, how the workshop will be organized, [lecture file](docs/01_CSDWorkshop_welcome.pdf)
